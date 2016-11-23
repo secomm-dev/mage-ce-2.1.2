@@ -47,5 +47,5 @@ atlassian*
 
 /var/*
 !/var/.htaccess
-/vendor/*
+!/vendor/*
 !/vendor/.htaccess
